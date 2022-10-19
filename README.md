@@ -6,4 +6,5 @@
 </br>
 
 - # 이수안컴퓨터연구소
-  -  [딥러닝 기초 - 신경망학습](https://www.youtube.com/watch?v=yocALgANi28&t=7s)
+  - [딥러닝 기초 - 신경망학습](https://www.youtube.com/watch?v=yocALgANi28&t=7s)
+  - [딥러닝 기초 - 신경망구조](https://www.youtube.com/watch?v=kHXrjyqyfE4)
