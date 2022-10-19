@@ -1,4 +1,4 @@
-<img src="https://namkugkim.files.wordpress.com/2017/05/1.png">
+<img src="https://ponirevo.com/wp-content/uploads/2020/05/understanding-artificial-intelligence-machine-learning-and-deep-learning-678x361.jpg">
 
 </br>
 📗AI/ML/DL 공부📗
