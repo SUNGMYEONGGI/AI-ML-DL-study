@@ -1,4 +1,4 @@
-<img src="https://namkugkim.files.wordpress.com/2017/05/1.png">
+<img src="https://blog.kakaocdn.net/dn/bwYfPR/btrzTfXlkpc/UQH1zD8QhAJrwkNlnKjPNK/img.jpg">
 
 </br>
 📗AI/ML/DL 공부📗
